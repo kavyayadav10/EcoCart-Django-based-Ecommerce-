@@ -4,4 +4,4 @@ __pycache__/
 *.pyc
 db.sqlite3
 .env
-"@ | Out-File -Encoding utf8 .gitignore
+"@ | Out-File -Encoding utf8 .gitignorenode_modules/
