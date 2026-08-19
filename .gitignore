@@ -5,3 +5,4 @@ __pycache__/
 db.sqlite3
 .env
 "@ | Out-File -Encoding utf8 .gitignorenode_modules/
+templates/node_modules/
